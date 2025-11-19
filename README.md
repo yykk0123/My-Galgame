@@ -4,7 +4,7 @@ The second  game since  magic tower
 images from kntgraphics   
 musics from moonwind   
 character from wataokiba   
-made with unity2022.3.62 and Naninovel v1.18.2
+made with unity2022.3.62 
 ## to do list
 - [ ] script
 - [ ] dialog
