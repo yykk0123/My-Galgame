@@ -13,3 +13,4 @@ made with unity2022.3.62
 - [ ] character
 - [ ] settings
 - [ ] dubbing
+- [ ] UI
