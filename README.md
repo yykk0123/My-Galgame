@@ -1,11 +1,11 @@
 # my-galgame
-The second  game since  magic tower
+The second game since [magic tower](https://github.com/yykk0123/my-magic-tower-)
 
 ## introduction
-images from kntgraphics   
-musics from moonwind   
-character from wataokiba   
-made with unity2022.3.62 
+- images from kntgraphics
+- musics from moonwind
+- character from wataokiba
+- made with unity2022.3.62
 
 ## to do list
 - [ ] script
